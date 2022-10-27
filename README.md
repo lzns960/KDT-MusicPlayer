@@ -5,8 +5,6 @@
 
 [https://kdt-sujic-box.netlify.app/](https://kdt-sujic-box.netlify.app/)
 
-[https://github.com/lzns960/KDT-MusicPlayer](https://github.com/lzns960/KDT-MusicPlayer)
-
 🛠 **스킬 및 사용툴**
 
 `HTML5` `css3` `Vanila JS` 
